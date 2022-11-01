@@ -1,0 +1,16 @@
+     NO        maps/north_texture.xpm
+R         9999 9999          
+   S         ./path_to_the_sprite_texture.xpm       
+F  15,29,45
+EA maps/east_texture.xpm
+C    45,41,232
+
+SO maps/south_texture.xpm
+   WE         maps/west_texture.xpm
+
+1 1 1 1 1 1 1 1 1
+1 0 0 0 0 0 0 0 1
+1 0 0 0 2 0 0 0 1
+1 0 0 0 0 0 0 0 1
+1 0 0 0 N 0 0 0 1
+1 1 1 1 1 1 1 1 1

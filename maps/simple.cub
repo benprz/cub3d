@@ -1,0 +1,13 @@
+S ./path_to_the_sprite_texture
+R 1920 1080
+F 220,100,0
+C 225,30,0
+
+NO maps/north_texture.xpm
+EA maps/east_texture.xpm
+SO maps/south_texture.xpm
+WE maps/west_texture.xpm
+
+1111111
+1E00001
+1111111
